@@ -45,7 +45,7 @@ html, body {
 }
 
 body {
-    background-image: url("/static/images/background.png");
+    background-image: url("https://res.cloudinary.com/diyibvvua/image/upload/v1747440616/background_crqzci.png");
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat;

@@ -55,6 +55,7 @@ MIDDLEWARE = [
 
 ROOT_URLCONF = 'cvsite.urls'
 
+
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 TEMPLATES = [
