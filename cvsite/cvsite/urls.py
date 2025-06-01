@@ -16,7 +16,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from cvapp import views
+from cvsite.cvapp import views
 
 urlpatterns = [
     path('', views.base, name='base'),
